@@ -1,0 +1,3 @@
+[submodule "PTMCMCSampler"]
+	path = PTMCMCSampler
+	url = git@github.com:rgreen1995/PTMCMCSampler.git
