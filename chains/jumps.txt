@@ -1,0 +1,6 @@
+MCAGjump 0.17
+AGjump 0.17
+covarianceJumpProposalSCAM 0.17
+covarianceJumpProposalAM 0.17
+DEJump 0.17
+SCAGjump 0.17
